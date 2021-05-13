@@ -6,7 +6,7 @@
 package main
 
 import (
-	"github.com/wgliang/pgproxy/cli"
+	"github.com/hardikm10/pgproxy/cli"
 )
 
 func main() {
